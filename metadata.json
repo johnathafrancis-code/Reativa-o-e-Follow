@@ -1,0 +1,7 @@
+{
+  "name": "Agenda de Reativação e Follow Up",
+  "description": "Interface ágil e direta para organizar contatos, datas de retorno e assuntos de reativação com status de acompanhamento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
